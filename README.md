@@ -1,0 +1,2 @@
+# Interactive Web Form with Events and Function
+An Interactive Web Form with Events and Functions allows users to input data dynamically while responding to actions like clicks, key presses, or form submissions. Using JavaScript functions and event listeners, the form performs real-time validation, updates content instantly, and enhances user experience through responsive and interactive behavior.
