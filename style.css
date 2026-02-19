@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+    padding: 40px;
+}
+
+input, textarea {
+    width: 250px;
+    padding: 8px;
+}
+
+span {
+    color: red;
+    font-size: 14px;
+}
+
+button {
+    padding: 10px 20px;
+    background: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
